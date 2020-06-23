@@ -14,6 +14,14 @@
 </p>
 
 <p align="center">
+  <a href="#recursos">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#créditos">Créditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/sergioricardoml/semana-omnistack-11/master/img/bethehero.gif" width="90%">
 </p>
 
@@ -35,15 +43,15 @@ $ git clone https://github.com/sergioricardoml/semana-omnistack-11
 # Entre no repositório
 $ cd semana-omnistack-11
 
-# Instale as depêndencias dentro do diretório backend
+# Instale as dependências dentro do diretório backend
 $ cd backend
 $ npm install
 
-# Instale as depêndencias dentro do diretório frontend
+# Instale as dependências dentro do diretório frontend
 $ cd frontend
 $ npm install
 ```
-#### Backend
+### Backend
 ```bash
 # Execute/gere o banco de dados
 $ npx knex migrate:latest
@@ -51,7 +59,7 @@ $ npx knex migrate:latest
 # Rodar backend
 $ npm start
 ```
-#### Frontend
+### Frontend
 ```bash
 # Rodar frontend
 $ npm start
