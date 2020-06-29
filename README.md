@@ -26,11 +26,11 @@
 </p>
 
 ## Recursos
-- Login / Logout de ONG's
-- Cadastro de ONG's
-- Cadastro de novos casos das ONG's
-- Listar os casos de uma ONG
-- Deletar casos das ONG's
+- Login / Logout de ONG's;
+- Cadastro de ONG's;
+- Cadastro de novos casos das ONG's;
+- Listar os casos de uma ONG;
+- Deletar casos das ONG's.
 
 ## Instalação
 
@@ -38,7 +38,7 @@ Para clonar e executar a aplicação é necessário [Git](https://git-scm.com) e
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/sergioricardoml/semana-omnistack-11
+$ git clone https://github.com/sergioricardoml/semana-omnistack-11.git
 
 # Entre no repositório
 $ cd semana-omnistack-11
